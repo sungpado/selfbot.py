@@ -1,12 +1,12 @@
-``[▓▓▓                    ] / {virus}-virus.exe Packing files.``
-``[▓▓▓▓▓▓▓                ] - {virus}-virus.exe Packing files..``
-``[▓▓▓▓▓▓▓▓▓▓▓▓           ] \ {virus}-virus.exe Packing files..``
-``[▓▓▓▓▓▓▓▓▓▓▓▓▓▓         ] | {virus}-virus.exe Packing files..``
-``[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓      ] / {virus}-virus.exe Packing files..``
-``[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   ] - {virus}-virus.exe Packing files..``
-``[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ] \ {virus}-virus.exe Packing files..``
-``Successfully downloaded {virus}-virus.exe``
-``Injecting virus.   |``
-``Injecting virus..  /``
-``Injecting virus... -``
-``Successfully Injected {virus}-virus.exe into {user}``
+``[▓▓▓                    ] / {virus}-virus.exe 압축 푸는중..``
+``[▓▓▓▓▓▓▓                ] - {virus}-virus.exe 압축 푸는중..``
+``[▓▓▓▓▓▓▓▓▓▓▓▓           ] \ {virus}-virus.exe 압축 푸는중..``
+``[▓▓▓▓▓▓▓▓▓▓▓▓▓▓         ] | {virus}-virus.exe 압축 푸는중..``
+``[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓      ] / {virus}-virus.exe 압축 푸는중..``
+``[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   ] - {virus}-virus.exe 압축 푸는중..``
+``[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ] \ {virus}-virus.exe 압축 푸는중..``
+``{virus}-virus.exe 다운로드 성공!``
+``virus 주입중.  |``
+``virus 주입중..  /``
+``virus 주입중... -``
+``성공적으로 {user}에게 {virus}-virus.exe를 주입하였습니다!``
